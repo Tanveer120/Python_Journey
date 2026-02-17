@@ -1,0 +1,1 @@
+My journey of starting Python and gooing to the advanced concepts.
