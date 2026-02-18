@@ -1,9 +1,12 @@
-My journey of starting Python and gooing to the advanced concepts.
+# 🐍 Python Journey
 
-Day1:
-    - Hello World
-    - Taking Differnt types of inputs
-    - Normal print vs fString formatting
-    - Getting multiple values as input in single line
-    
-    Exercise: Number guessing game
+## 📅 Day 1
+
+### Topics Covered
+- Hello World
+- Taking input
+- f-strings
+- Multiple inputs in one line
+
+### Exercise
+- Number Guessing Game
