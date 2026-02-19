@@ -21,3 +21,14 @@
 ### Exercise
 - Greater of the two numbers
 - Day matching using match-case where 1 = Sunday
+
+## 📅 Day 3
+
+### Topics Covered
+- for loop
+- while loop
+- range()
+
+### Exercise
+- Pyramid pattern using for loop
+- Printing any number's table
