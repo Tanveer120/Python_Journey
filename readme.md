@@ -32,3 +32,13 @@
 ### Exercise
 - Pyramid pattern using for loop
 - Printing any number's table
+
+## 📅 Day 3
+
+### Topics Covered
+- User defined functions
+- Using keyword arguments for function
+- Recursive function
+
+### Exercise
+- Factorial of any given number
