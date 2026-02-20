@@ -33,7 +33,7 @@
 - Pyramid pattern using for loop
 - Printing any number's table
 
-## 📅 Day 3
+## 📅 Day 4
 
 ### Topics Covered
 - User defined functions
